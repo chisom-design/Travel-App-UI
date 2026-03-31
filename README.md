@@ -21,4 +21,3 @@ A simple mobile app design for exploring travel destinations.
   <img src="homeflat.png" width="260"/>
 </div>
 
-Travel App UI Mobile App Design UI/UX Figma Design uidesign
