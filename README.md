@@ -13,10 +13,10 @@ A simple mobile app design for exploring travel destinations.
 <img src="login & splash.png" width="600"/>
 <img src="splash & home.png" width="600"/>
 
-<div style="display: flex; justify-content: center; gap: 28px; flex-wrap: nowrap;">
-  <img src="login.png" width="170"/>
-  <img src="sign up.png" width="170"/>
-  <img src="passwordflat.png" width="170"/>
-  <img src="splashflat.png" width="170"/>
-  <img src="homeflat.png" width="170"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+  <img src="login.png" width="260"/>
+  <img src="sign up.png" width="260"/>
+  <img src="passwordflat.png" width="260"/>
+  <img src="splashflat.png" width="260"/>
+  <img src="homeflat.png" width="260"/>
 </div>
