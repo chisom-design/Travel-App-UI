@@ -1,2 +1,1 @@
-# Travel-App-UI
-Travel Mobile App UI Design
+A simple mobile app design for exploring travel destinations.
